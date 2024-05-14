@@ -71,4 +71,4 @@ else:
     predicted_price = model.predict([[days_input]])
 
     # Menampilkan hasil prediksi
-    st.write(f'Prediksi harga emas untuk bulan {bulan} tahun {tahun}: ${predicted_price[0]:.2f}')
+    st.write(f'Prediksi harga emas HHHH untuk bulan {bulan} tahun {tahun}: ${predicted_price[0]:.2f}')
