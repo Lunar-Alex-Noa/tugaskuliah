@@ -2,8 +2,6 @@ numpy
 pandas
 seaborn
 matplotlib
-sklearn.model_selection train_test_split
-sklearn.linear_model import LinearRegression
-sklearn.metrics import mquared_error
-streamlit as st
+sklearn
+streamlit
 datetime
